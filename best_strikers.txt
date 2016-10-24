@@ -1,0 +1,21 @@
+1. Man United, 2 chutes a gol para cada gol
+2. West Ham, 2 chutes a gol para cada gol
+3. Man City, 2 chutes a gol para cada gol
+4. Liverpool, 2 chutes a gol para cada gol
+5. Arsenal, 3 chutes a gol para cada gol
+6. Fulham, 3 chutes a gol para cada gol
+7. Tottenham, 3 chutes a gol para cada gol
+8. Sunderland, 3 chutes a gol para cada gol
+9. Swansea, 3 chutes a gol para cada gol
+10. Cardiff, 3 chutes a gol para cada gol
+11. Stoke, 3 chutes a gol para cada gol
+12. Everton, 3 chutes a gol para cada gol
+13. Hull, 3 chutes a gol para cada gol
+14. Chelsea, 3 chutes a gol para cada gol
+15. Aston Villa, 3 chutes a gol para cada gol
+16. West Brom, 3 chutes a gol para cada gol
+17. Southampton, 3 chutes a gol para cada gol
+18. Newcastle, 4 chutes a gol para cada gol
+19. Crystal Palace, 4 chutes a gol para cada gol
+20. Norwich, 5 chutes a gol para cada gol
+
